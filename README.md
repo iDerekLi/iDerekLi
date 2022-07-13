@@ -21,4 +21,4 @@ I'm a Front-end Developer from China.
 <code><img height="20" alt="chrome-extension" src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/chrome-extension/chrome-extension.png"></code>
 <code><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/electron/electron.png"></code>
 
-[![DerkLi's Github Status](https://github-readme-stats.vercel.app/api?username=iDerekLi&show_icons=true&bg_color=0,d0768c,bf46a5,7029b2,341d8c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/iDerekLi)
+[![DerkLi's Github Status](https://github-readme-stats.vercel.app/api?username=iDerekLi&show_icons=true&bg_color=0,d0768c,bf46a5,7029b2,341d8c&title_color=fff&text_color=fff&icon_color=fff&border_color=78787878)](https://github.com/iDerekLi)

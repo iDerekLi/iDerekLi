@@ -2,7 +2,7 @@
 
 <p align="center">用奉献精神和爱</p>
 
-I'm a Front-end Developer from China.
+I'm a Frontend Developer from China.
 
 **Top projects:**
 
